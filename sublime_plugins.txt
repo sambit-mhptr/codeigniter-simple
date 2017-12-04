@@ -1,0 +1,9 @@
+sublime-linter
+html5
+emmet
+hayaku
+js-hint
+node-js
+color-higlighter
+color-picker
+sidebarenhancements
